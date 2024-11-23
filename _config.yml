@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "나 경민"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/1.jpg"
   bio    : "편히 둘러보다 가세요. 생각보다 별 내용없습니다ㅎㅎ"
   links:
     - label: "website"
