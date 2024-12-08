@@ -4,8 +4,8 @@ date: 2024-10-25T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - welcome
+  - start
 ---
 
 이 블로그는 저의 결혼 준비 과정과 
