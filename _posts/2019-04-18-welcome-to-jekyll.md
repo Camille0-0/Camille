@@ -12,13 +12,7 @@ tags:
 여러가지의 sql 팁들을 블로그 형식으로 기록하려고 합니다.
 잘 부탁드립니다.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
